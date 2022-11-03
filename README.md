@@ -1,4 +1,4 @@
-# Colecovision Reverse Enineering Project
+# Colecovision Reverse Engineering Project
 ## Goal: Reverse engineer original PCB to create a schematic, and functional replacment board.
 
 ```
