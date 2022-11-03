@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD813ANZ
+D AD813ANZ, Triple Operational Amplifier Rail-Rail 3 to 28V, 14-Pin PDIP
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-1/DSA-1850.pdf
+$ENDCMP
+#
+#End Doc Library

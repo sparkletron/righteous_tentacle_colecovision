@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Vintage_PC_Audio)(type Legacy)(uri ${KIPRJMOD}/lib/VINTAGE_PC_AUDIO/Vintage_PC_Audio.lib)(options "")(descr ""))
+  (lib (name VINTAGE_PC_VIDEO)(type Legacy)(uri ${KIPRJMOD}/lib/VINTAGE_PC_VIDEO/VINTAGE_PC_VIDEO.lib)(options "")(descr ""))
+)
