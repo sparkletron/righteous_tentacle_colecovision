@@ -1,5 +1,5 @@
 (sym_lib_table
-  (lib (name "Vintage_PC_Audio")(type "KiCad")(uri "${KIPRJMOD}/lib/VINTAGE_PC_AUDIO/Vintage_PC_Audio.kicad_sym")(options "")(descr ""))
-  (lib (name "Vintage_PC_Video")(type "KiCad")(uri "${KIPRJMOD}/lib/VINTAGE_PC_VIDEO/Vintage_PC_Video.kicad_sym")(options "")(descr ""))
-  (lib (name "Vintage_PC_RAM")(type "KiCad")(uri "${KIPRJMOD}/lib/VINTAGE_PC_RAM/Vintage_PC_RAM.kicad_sym")(options "")(descr ""))
+  (lib (name "Vintage_Audio_Synth")(type "KiCad")(uri "${KIPRJMOD}/lib/VINTAGE_AUDIO_SYNTH/Vintage_Audio_Synth.kicad_sym")(options "")(descr ""))
+  (lib (name "Vintage_RAM")(type "KiCad")(uri "${KIPRJMOD}/lib/VINTAGE_RAM/Vintage_RAM.kicad_sym")(options "")(descr ""))
+  (lib (name "Vintage_VDP")(type "KiCad")(uri "${KIPRJMOD}/lib/VINTAGE_VDP/Vintage_VDP.kicad_sym")(options "")(descr ""))
 )

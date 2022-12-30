@@ -262,7 +262,7 @@
         )
       )
     )
-    (symbol "Vintage_PC_RAM:SCM2114AL" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+    (symbol "Vintage_RAM:SCM2114AL" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
       (property "Reference" "U" (id 0) (at 1.27 7.62 0)
         (effects (font (size 1.27 1.27)))
       )
@@ -853,7 +853,7 @@
     (uuid cae4d265-faa4-4306-a4ad-1e8025d200c5)
   )
 
-  (symbol (lib_id "Vintage_PC_RAM:SCM2114AL") (at 104.775 57.15 0) (unit 1)
+  (symbol (lib_id "Vintage_RAM:SCM2114AL") (at 104.775 57.15 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 07a242e7-b39d-4f7c-b62a-ea010706f99f)
     (property "Reference" "U3" (id 0) (at 106.7944 48.26 0)
@@ -955,7 +955,7 @@
     (pin "1" (uuid b9ec4b7d-6bb2-482e-9883-a7c1a7c8f137))
   )
 
-  (symbol (lib_id "Vintage_PC_RAM:SCM2114AL") (at 142.875 57.15 0) (unit 1)
+  (symbol (lib_id "Vintage_RAM:SCM2114AL") (at 142.875 57.15 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 89b95502-c618-46bf-9829-3031af35fbc3)
     (property "Reference" "U4" (id 0) (at 144.8944 48.26 0)

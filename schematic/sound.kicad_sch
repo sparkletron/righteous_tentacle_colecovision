@@ -5,7 +5,7 @@
   (paper "A4")
 
   (lib_symbols
-    (symbol "Vintage_PC_Audio:SN76489AN" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+    (symbol "Vintage_Audio_Synth:SN76489AN" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
       (property "Reference" "U" (id 0) (at 2.54 7.62 0)
         (effects (font (size 1.27 1.27)))
       )
@@ -17,6 +17,11 @@
       )
       (property "Datasheet" "" (id 3) (at -22.86 -1.27 0)
         (effects (font (size 1.27 1.27)) hide)
+      )
+      (symbol "SN76489AN_0_0"
+        (text "BIT 0 IS MSB" (at -1.27 -5.08 0)
+          (effects (font (size 1.27 1.27)))
+        )
       )
       (symbol "SN76489AN_0_1"
         (rectangle (start -8.89 3.81) (end 8.89 -22.86)
@@ -234,7 +239,7 @@
     (uuid 1d364268-b933-42c0-878a-6bfa2f3ce11c)
   )
 
-  (symbol (lib_id "Vintage_PC_Audio:SN76489AN") (at 149.86 69.85 0) (unit 1)
+  (symbol (lib_id "Vintage_Audio_Synth:SN76489AN") (at 149.86 69.85 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid a7ee8334-ea2a-4c58-bad5-b526b1af348c)
     (property "Reference" "U20" (id 0) (at 151.8794 60.325 0)
