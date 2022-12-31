@@ -166,6 +166,11 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 7749db72-7ec1-4afc-8d21-c1be0744c6f6)
   )
+
+  (wire (pts (xy 132.715 85.09) (xy 138.43 85.09))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid 84314937-3537-459a-82f9-c4b591904abd)
+  )
   (bus (pts (xy 167.64 78.74) (xy 167.64 81.28))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 9c89e375-d2c9-471b-aa04-fa3c4a6e1a63)
@@ -237,6 +242,10 @@
   (hierarchical_label "D[0..7]" (shape bidirectional) (at 183.515 88.9 0)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 1d364268-b933-42c0-878a-6bfa2f3ce11c)
+  )
+  (hierarchical_label "~{WAIT}" (shape output) (at 132.715 85.09 180)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid e526fbaf-0e60-4704-9472-559f2867a1b4)
   )
 
   (symbol (lib_id "Vintage_Audio_Synth:SN76489AN") (at 149.86 69.85 0) (unit 1)

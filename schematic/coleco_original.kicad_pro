@@ -345,12 +345,12 @@
       "clock_reset"
     ],
     [
-      "209bcd49-5218-4a3a-835e-04ab78c027d2",
-      "controller"
-    ],
-    [
       "e4e06c1d-a786-4d3d-bc60-24b1ad1e3a25",
       "io_ports"
+    ],
+    [
+      "209bcd49-5218-4a3a-835e-04ab78c027d2",
+      "controller"
     ],
     [
       "a929da8d-0ff1-4556-90a6-ec5a0a125157",
