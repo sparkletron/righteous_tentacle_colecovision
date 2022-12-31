@@ -427,6 +427,10 @@
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid d75a7ba7-0cf7-434e-97ed-97660ae18eb9)
   )
+  (hierarchical_label "A0" (shape input) (at 53.975 56.515 180)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid d8516385-6f17-4835-8064-8d70e5ca8eab)
+  )
 
   (symbol (lib_id "Vintage_RAM:MK4116P") (at 178.435 93.345 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
