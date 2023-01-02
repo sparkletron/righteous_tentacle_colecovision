@@ -1462,7 +1462,7 @@
     (uuid ff897599-443b-4ac5-9613-d209b57af2d5)
   )
 
-  (hierarchical_label "U5_O0" (shape input) (at 193.04 126.365 180)
+  (hierarchical_label "~{ROM_ENABLE}" (shape input) (at 193.04 126.365 180)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 0acf0b08-4c4f-456d-b728-ca113a221838)
   )
@@ -1470,7 +1470,7 @@
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 1cdb3359-e8af-4072-99ae-180b6414563b)
   )
-  (hierarchical_label "U5_O3" (shape input) (at 80.645 110.49 180)
+  (hierarchical_label "~{RAM_CS}" (shape input) (at 80.645 110.49 180)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 53a955fd-a715-46c1-8efd-ade48020b988)
   )
