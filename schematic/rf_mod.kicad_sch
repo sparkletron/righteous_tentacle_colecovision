@@ -98,6 +98,10 @@
   )
 
 
+  (hierarchical_label "R-Y" (shape input) (at 83.185 122.555 0)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 437cd106-5f2f-47f3-8eca-ca281c42cd43)
+  )
   (hierarchical_label "SND_OUT" (shape input) (at 151.13 135.89 0)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 7ef99a02-6219-43fc-a208-c05a621f9b24)
@@ -105,6 +109,14 @@
   (hierarchical_label "SND_CLK" (shape input) (at 151.13 146.05 0)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 8a4ad923-2a8b-41dd-a9ac-62eb06a14576)
+  )
+  (hierarchical_label "Y" (shape input) (at 83.185 114.935 0)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid a383458e-a87c-4a56-9601-fc268f1af571)
+  )
+  (hierarchical_label "B-Y" (shape input) (at 83.185 119.38 0)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid d6ced8c0-05da-4403-9366-143df5a501ab)
   )
 
   (symbol (lib_id "Device:L") (at 147.32 146.05 90) (unit 1)
