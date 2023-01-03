@@ -342,7 +342,7 @@
     ],
     [
       "00000000-0000-0000-0000-00006262cd5c",
-      "clock_reset"
+      "clock_reset_inversion"
     ],
     [
       "e4e06c1d-a786-4d3d-bc60-24b1ad1e3a25",
