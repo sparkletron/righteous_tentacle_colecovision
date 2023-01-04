@@ -3,4 +3,5 @@
   (lib (name "Vintage_RAM")(type "KiCad")(uri "${KIPRJMOD}/lib/VINTAGE_RAM/Vintage_RAM.kicad_sym")(options "")(descr ""))
   (lib (name "Vintage_VDP")(type "KiCad")(uri "${KIPRJMOD}/lib/VINTAGE_VDP/Vintage_VDP.kicad_sym")(options "")(descr ""))
   (lib (name "Power_Symbols")(type "KiCad")(uri "${KIPRJMOD}/lib/POWER_SYMBOLS/Power_Symbols.kicad_sym")(options "")(descr ""))
+  (lib (name "RF_Modulators")(type "KiCad")(uri "${KIPRJMOD}/lib/RF_MODULATORS/RF_Modulators.kicad_sym")(options "")(descr ""))
 )

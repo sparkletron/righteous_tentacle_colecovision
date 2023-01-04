@@ -7,4 +7,10 @@
   (lib_symbols
   )
 
+
+  (text "MEAN WELL 28.5 Watt PSU:\n\nGP25A13D-R1B\n\nGP25B13A-R1B\n\n"
+    (at 135.89 93.345 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 6707c4d9-9687-4339-91e0-54801f654051)
+  )
 )
