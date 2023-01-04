@@ -363,6 +363,10 @@
     [
       "90d81fee-5b02-4f66-adf4-b1217f22fc02",
       "sub_rf_mod"
+    ],
+    [
+      "d51f3d17-483b-4d70-9878-f090be2a8e26",
+      "ext_psu"
     ]
   ],
   "text_variables": {}
