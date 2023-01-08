@@ -2399,9 +2399,6 @@
     (path "/00000000-0000-0000-0000-000062624797/f0d9bc8c-6f49-4ca2-9a1f-cbe0d559ecca"
       (reference "#PWR?") (unit 1) (value "-5V") (footprint "")
     )
-    (path "/d7e08e46-990d-4e27-b9cb-1b29fb4b0562/f1ac58aa-6a09-4616-8189-7e17df593ae9"
-      (reference "#PWR?") (unit 1) (value "GNDD") (footprint "")
-    )
     (path "/00000000-0000-0000-0000-00006262cd5c/f3efb673-5733-4b7a-aa0f-1e9d7f4cbacc"
       (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
     )
