@@ -3035,6 +3035,9 @@
     (path "/209bcd49-5218-4a3a-835e-04ab78c027d2/8f8e36a8-fb5f-491e-8e19-44a4aa64aef4"
       (reference "UR26") (unit 1) (value "22K") (footprint "Resistor_THT:R_Array_SIP8")
     )
+    (path "/00000000-0000-0000-0000-00006262cd5c/62af6a7e-c172-47e4-a46a-5e27241b6b48"
+      (reference "WJ1") (unit 1) (value "Jumper_2_Open") (footprint "")
+    )
     (path "/00000000-0000-0000-0000-000062624797/974f6a53-9301-4e43-bf15-c735b44d0113"
       (reference "WJ2") (unit 1) (value "Jumper_2_Bridged") (footprint "")
     )
@@ -3048,7 +3051,7 @@
       (reference "WJ5") (unit 1) (value "Jumper_2_Bridged_32K_ROM") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00006262cd5c/bdbe0533-e961-4f6a-a340-90eb52f02347"
-      (reference "Y1") (unit 1) (value "15.9090Mhz") (footprint "")
+      (reference "Y1") (unit 1) (value "7.159090Mhz") (footprint "")
     )
   )
 )
