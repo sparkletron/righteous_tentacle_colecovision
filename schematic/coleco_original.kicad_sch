@@ -4,6 +4,13 @@
 
   (paper "B")
 
+  (title_block
+    (title "Colecovision Schematic")
+    (date "2023-01-09")
+    (rev "F.0")
+    (comment 1 "Jay Convertino")
+  )
+
   (lib_symbols
   )
 
