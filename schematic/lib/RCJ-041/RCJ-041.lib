@@ -1,0 +1,27 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model RCJ-041
+#/4618877/470609/2.49/2/4/Connector
+DEF RCJ-041 J 0 30 Y Y 1 F N
+F0 "J" 650 300 50 H V L CNN
+F1 "RCJ-041" 650 200 50 H V L CNN
+F2 "RCJ041" 650 100 50 H I L CNN
+F3 "https://www.cuidevices.com/product/resource/digikeypdf/rcj-04x.pdf" 650 0 50 H I L CNN
+F4 "RCA Phono Connectors RCA Connectors" 650 -100 50 H I L CNN "Description"
+F5 "13" 650 -200 50 H I L CNN "Height"
+F6 "CUI Inc." 650 -300 50 H I L CNN "Manufacturer_Name"
+F7 "RCJ-041" 650 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "490-RCJ-041" 650 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/CUI-Devices/RCJ-041?qs=WyjlAZoYn52BTmz2mkbjnQ%3D%3D" 650 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "RCJ-041" 650 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/rcj-041/cui-devices?region=nac" 650 -800 50 H I L CNN "Arrow Price/Stock"
+F12 "" 650 -900 50 H I L CNN "Mouser Testing Part Number"
+F13 "" 650 -1000 50 H I L CNN "Mouser Testing Price/Stock"
+DRAW
+X 1 1 0 -100 200 R 50 50 0 0 P
+X 2 2 0 0 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 600 100 600 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

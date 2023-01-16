@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "Variable_Inductors")(type "KiCad")(uri "${KIPRJMOD}/lib/VARIABLE_INDUCTORS/Variable_Inductors.pretty")(options "")(descr ""))
+  (lib (name "Connector_PCBEdge_EXT")(type "KiCad")(uri "${KIPRJMOD}/lib/CONNECTOR_PCBEdge_EXT/Connector_PCBEdge_EXT.pretty")(options "")(descr ""))
+  (lib (name "RCJ-041")(type "KiCad")(uri "${KIPRJMOD}/lib/RCJ-041")(options "")(descr ""))
+  (lib (name "TE_5530841-2")(type "KiCad")(uri "${KIPRJMOD}/lib/TE_5530841-2")(options "")(descr ""))
+)

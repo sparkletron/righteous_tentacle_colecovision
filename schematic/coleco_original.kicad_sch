@@ -2575,10 +2575,10 @@
       (reference "J0") (unit 1) (value "Conn_01x04") (footprint "Connector_Molex:Molex_KK-396_A-41791-0004_1x04_P3.96mm_Vertical")
     )
     (path "/e4e06c1d-a786-4d3d-bc60-24b1ad1e3a25/0dbd250f-4ad6-4b1e-bd09-9ff641e22690"
-      (reference "J1") (unit 1) (value "Cartridge Port") (footprint "")
+      (reference "J1") (unit 1) (value "Cartridge Port") (footprint "TE_5530841-2:55308412")
     )
     (path "/e4e06c1d-a786-4d3d-bc60-24b1ad1e3a25/3ec508d7-7fa8-419f-9eb3-0d38e5290c38"
-      (reference "J2") (unit 1) (value "Expansion Port") (footprint "")
+      (reference "J2") (unit 1) (value "Expansion Port") (footprint "Connector_PCBEdge_EXT:Colecovision_Expansion")
     )
     (path "/d7e08e46-990d-4e27-b9cb-1b29fb4b0562/c5be0a21-cd3c-48f1-aa41-e9edaa340f92"
       (reference "J4A1") (unit 1) (value "Conn_01x08") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical")
@@ -2848,10 +2848,10 @@
       (reference "RF_D2") (unit 1) (value "BB329A") (footprint "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal")
     )
     (path "/d7e08e46-990d-4e27-b9cb-1b29fb4b0562/90d81fee-5b02-4f66-adf4-b1217f22fc02/ce066aa2-0fee-4485-82d9-5d6ca8e7d023"
-      (reference "RF_J1") (unit 1) (value "RF_OUT") (footprint "")
+      (reference "RF_J1") (unit 1) (value "RF_OUT") (footprint "RCJ-041:RCJ041")
     )
     (path "/d7e08e46-990d-4e27-b9cb-1b29fb4b0562/90d81fee-5b02-4f66-adf4-b1217f22fc02/1bb4142f-f949-4c69-9c5a-eef9e37c3997"
-      (reference "RF_JP1") (unit 1) (value "Jumper_2_Bridged") (footprint "Resistor_THT:R_Bare_Metal_Element_L16.3mm_W4.8mm_P15.30mm")
+      (reference "RF_JP1") (unit 1) (value "Jumper_2_Bridged") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal")
     )
     (path "/d7e08e46-990d-4e27-b9cb-1b29fb4b0562/90d81fee-5b02-4f66-adf4-b1217f22fc02/6094d1bc-26ae-42f7-b1ee-392f02fe80e1"
       (reference "RF_L1") (unit 1) (value "1.4uH") (footprint "Inductor_THT:L_Radial_D7.5mm_P5.00mm_Fastron_07P")
@@ -2861,9 +2861,6 @@
     )
     (path "/d7e08e46-990d-4e27-b9cb-1b29fb4b0562/90d81fee-5b02-4f66-adf4-b1217f22fc02/7c472d71-4661-406c-ae6c-9f051677b675"
       (reference "RF_L3") (unit 1) (value "1.5uH") (footprint "Inductor_THT:L_Radial_D7.5mm_P5.00mm_Fastron_07P")
-    )
-    (path "/d7e08e46-990d-4e27-b9cb-1b29fb4b0562/90d81fee-5b02-4f66-adf4-b1217f22fc02/0b60f3ce-96bb-47bf-a3ac-6112f00b6343"
-      (reference "RF_LV1") (unit 1) (value "8_16uH") (footprint "")
     )
     (path "/d7e08e46-990d-4e27-b9cb-1b29fb4b0562/90d81fee-5b02-4f66-adf4-b1217f22fc02/7fa6aabb-d261-4c00-8e28-5c26b7265fe2"
       (reference "RF_R1") (unit 1) (value "39K") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
@@ -2906,6 +2903,9 @@
     )
     (path "/d7e08e46-990d-4e27-b9cb-1b29fb4b0562/90d81fee-5b02-4f66-adf4-b1217f22fc02/9d432e97-394e-4219-b0db-dc22846d5263"
       (reference "RF_U1") (unit 1) (value "LM1889") (footprint "Package_DIP:DIP-18_W7.62mm_LongPads")
+    )
+    (path "/d7e08e46-990d-4e27-b9cb-1b29fb4b0562/90d81fee-5b02-4f66-adf4-b1217f22fc02/df638239-9038-441e-928f-88892b8a14f5"
+      (reference "RF_VL1") (unit 1) (value "Sumida_73279") (footprint "Variable_Inductors:Sumida_73279")
     )
     (path "/00000000-0000-0000-0000-00006262cd5c/5a44b494-30c5-45bc-a809-ce28c5756b42"
       (reference "S1") (unit 1) (value "SW_SPST") (footprint "Button_Switch_THT:SW_TH_Tactile_Omron_B3F-10xx")
@@ -3058,19 +3058,19 @@
       (reference "UR26") (unit 1) (value "22K") (footprint "Resistor_THT:R_Array_SIP8")
     )
     (path "/00000000-0000-0000-0000-00006262cd5c/62af6a7e-c172-47e4-a46a-5e27241b6b48"
-      (reference "WJ1") (unit 1) (value "Jumper_2_Open") (footprint "Resistor_THT:R_Bare_Metal_Element_L16.3mm_W4.8mm_P15.30mm")
+      (reference "WJ1") (unit 1) (value "Jumper_2_Open") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal")
     )
     (path "/00000000-0000-0000-0000-000062624797/974f6a53-9301-4e43-bf15-c735b44d0113"
-      (reference "WJ2") (unit 1) (value "Jumper_2_Bridged") (footprint "Resistor_THT:R_Bare_Metal_Element_L16.3mm_W4.8mm_P15.30mm")
+      (reference "WJ2") (unit 1) (value "Jumper_2_Bridged") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal")
     )
     (path "/00000000-0000-0000-0000-000062624797/9f376cf3-caaf-4256-85db-d0bab12dd4f4"
-      (reference "WJ3") (unit 1) (value "Jumper_2_Open") (footprint "Resistor_THT:R_Bare_Metal_Element_L16.3mm_W4.8mm_P15.30mm")
+      (reference "WJ3") (unit 1) (value "Jumper_2_Open") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal")
     )
     (path "/00000000-0000-0000-0000-00006262cd34/f02b17eb-47d8-4981-adc4-3109630ed3ab"
-      (reference "WJ4") (unit 1) (value "Jumper_2_Bridged_32K_ROM") (footprint "Resistor_THT:R_Bare_Metal_Element_L16.3mm_W4.8mm_P15.30mm")
+      (reference "WJ4") (unit 1) (value "Jumper_2_Bridged_32K_ROM") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal")
     )
     (path "/00000000-0000-0000-0000-00006262cd34/afbce8ac-c6ee-4548-b95b-dbc68f1e442f"
-      (reference "WJ5") (unit 1) (value "Jumper_2_Bridged_32K_ROM") (footprint "Resistor_THT:R_Bare_Metal_Element_L16.3mm_W4.8mm_P15.30mm")
+      (reference "WJ5") (unit 1) (value "Jumper_2_Bridged_32K_ROM") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal")
     )
     (path "/00000000-0000-0000-0000-00006262cd5c/bdbe0533-e961-4f6a-a340-90eb52f02347"
       (reference "Y1") (unit 1) (value "7.159090Mhz") (footprint "Crystal:Crystal_HC49-U_Vertical")
