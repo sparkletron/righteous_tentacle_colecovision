@@ -1419,7 +1419,7 @@
     (uuid 5b197784-5bad-46c9-b74f-0cdf51de48a5)
     (property "Reference" "C106" (id 0) (at 214.63 132.08 90))
     (property "Value" "10uF" (id 1) (at 214.63 133.985 90))
-    (property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm" (id 2) (at 218.44 136.8298 0)
+    (property "Footprint" "Capacitor_THT:CP_Radial_Tantal_D4.5mm_P2.50mm" (id 2) (at 218.44 136.8298 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 214.63 137.795 0)

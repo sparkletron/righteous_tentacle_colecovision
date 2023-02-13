@@ -2980,7 +2980,7 @@
       (reference "C104") (unit 1) (value "100pF") (footprint "Capacitor_THT:C_Disc_D7.0mm_W2.5mm_P5.00mm")
     )
     (path "/00000000-0000-0000-0000-000062624797/5b197784-5bad-46c9-b74f-0cdf51de48a5"
-      (reference "C106") (unit 1) (value "10uF") (footprint "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm")
+      (reference "C106") (unit 1) (value "10uF") (footprint "Capacitor_THT:CP_Radial_Tantal_D4.5mm_P2.50mm")
     )
     (path "/209bcd49-5218-4a3a-835e-04ab78c027d2/593b8989-4930-4dcf-b1fc-d370634a0208"
       (reference "CR1") (unit 1) (value "1N914") (footprint "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal")
