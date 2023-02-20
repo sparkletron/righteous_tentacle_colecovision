@@ -2779,7 +2779,7 @@
       (reference "#PWR0274") (unit 1) (value "+5V") (footprint "")
     )
     (path "/d7e08e46-990d-4e27-b9cb-1b29fb4b0562/f50e5b30-86ef-445b-8099-8c60266fc2b1"
-      (reference "#PWR?") (unit 1) (value "VDDA") (footprint "")
+      (reference "#PWR0275") (unit 1) (value "VDDA") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00006262cd5c/56a635e4-d620-4d70-a061-5949ab39e74d"
       (reference "C1") (unit 1) (value "10nF") (footprint "Capacitor_THT:C_Disc_D7.0mm_W2.5mm_P5.00mm")

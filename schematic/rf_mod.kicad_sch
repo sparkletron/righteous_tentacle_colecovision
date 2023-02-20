@@ -2126,7 +2126,7 @@
   (symbol (lib_id "power:VDDA") (at 139.065 113.03 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid f50e5b30-86ef-445b-8099-8c60266fc2b1)
-    (property "Reference" "#PWR?" (id 0) (at 142.875 113.03 0)
+    (property "Reference" "#PWR0275" (id 0) (at 142.875 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VDDA" (id 1) (at 136.525 113.03 90)
