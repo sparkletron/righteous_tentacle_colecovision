@@ -2201,7 +2201,7 @@
     (uuid 0dbd250f-4ad6-4b1e-bd09-9ff641e22690)
     (property "Reference" "J1" (id 0) (at 106.68 52.07 0))
     (property "Value" "Cartridge Port" (id 1) (at 106.68 54.61 0))
-    (property "Footprint" "TE_5530841-2:55308412" (id 2) (at 105.41 76.835 0)
+    (property "Footprint" "TE_5530841-2:55308412_coleco" (id 2) (at 105.41 76.835 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 105.41 76.835 0)
