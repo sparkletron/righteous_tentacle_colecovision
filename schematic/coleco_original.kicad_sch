@@ -2676,8 +2676,8 @@
     (path "/d7e08e46-990d-4e27-b9cb-1b29fb4b0562/84813c79-dd12-4697-a059-40984d5684f6"
       (reference "#PWR0240") (unit 1) (value "VDDA") (footprint "")
     )
-    (path "/d7e08e46-990d-4e27-b9cb-1b29fb4b0562/5426d12e-ee0d-4da2-ba33-faeaab3bfa43"
-      (reference "#PWR0241") (unit 1) (value "VDDA") (footprint "")
+    (path "/d7e08e46-990d-4e27-b9cb-1b29fb4b0562/a1794cf5-373d-45ff-94df-7398e6786622"
+      (reference "#PWR0241") (unit 1) (value "+12VL") (footprint "")
     )
     (path "/d7e08e46-990d-4e27-b9cb-1b29fb4b0562/a11b2635-0aee-483f-9736-fe3fdc27d6bd"
       (reference "#PWR0242") (unit 1) (value "GNDD") (footprint "")
@@ -2778,8 +2778,11 @@
     (path "/00000000-0000-0000-0000-00006262475e/7664d489-6879-4a21-99b1-5c975867ec5e"
       (reference "#PWR0274") (unit 1) (value "+5V") (footprint "")
     )
-    (path "/d7e08e46-990d-4e27-b9cb-1b29fb4b0562/f50e5b30-86ef-445b-8099-8c60266fc2b1"
-      (reference "#PWR0275") (unit 1) (value "VDDA") (footprint "")
+    (path "/d7e08e46-990d-4e27-b9cb-1b29fb4b0562/20fcb876-f6ff-4fc6-b77f-13f0a27e0030"
+      (reference "#PWR0275") (unit 1) (value "+12VL") (footprint "")
+    )
+    (path "/d7e08e46-990d-4e27-b9cb-1b29fb4b0562/9b137d99-6ea8-4d6d-99e8-dd4f98cf7ea6"
+      (reference "#PWR0276") (unit 1) (value "+12VL") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00006262cd5c/56a635e4-d620-4d70-a061-5949ab39e74d"
       (reference "C1") (unit 1) (value "10nF") (footprint "Capacitor_THT:C_Disc_D7.0mm_W2.5mm_P5.00mm")

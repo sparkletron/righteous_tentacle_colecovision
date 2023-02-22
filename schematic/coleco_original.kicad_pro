@@ -387,7 +387,9 @@
           "+5VD",
           "-5C",
           "-5V",
-          "-5VL"
+          "-5VL",
+          "VDDA",
+          "VDDF"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
