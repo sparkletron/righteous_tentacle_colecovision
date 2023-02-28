@@ -388,6 +388,10 @@
           "-5C",
           "-5V",
           "-5VL",
+          "/psu/+12NF",
+          "/psu/+5NF",
+          "GND",
+          "GNDD",
           "VDDA",
           "VDDF"
         ],
