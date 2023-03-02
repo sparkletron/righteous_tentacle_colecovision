@@ -2778,7 +2778,7 @@
     (uuid c8240303-adeb-420c-b04a-34efb3184525)
     (property "Reference" "C3" (id 0) (at 62.865 174.625 0))
     (property "Value" "10uF" (id 1) (at 62.865 176.53 0))
-    (property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm" (id 2) (at 68.9102 179.07 0)
+    (property "Footprint" "Capacitor_THT:CP_Radial_Tantal_D4.5mm_P5.00mm" (id 2) (at 68.9102 179.07 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 67.945 175.26 0)
