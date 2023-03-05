@@ -1,5 +1,5 @@
 # Colecovision Reverse Engineering Project
-### Schematic, PCB and full reproduction.
+### Schematic and PCB reproduction.
 
 ---
 
