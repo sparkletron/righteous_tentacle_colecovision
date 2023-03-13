@@ -1,4 +1,4 @@
-20885748086849662
+20887449592153498
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -77330,6 +77330,13 @@ Potentiometer vertical Vishay T73YP
 3
 RCJ-041
 RCJ041
+RCJ-041-4
+Connector
+0
+2
+2
+RCJ-041
+RCJ041_copy
 RCJ-041-4
 Connector
 0

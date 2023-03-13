@@ -2706,12 +2706,6 @@
     (path "/d7e08e46-990d-4e27-b9cb-1b29fb4b0562/90d81fee-5b02-4f66-adf4-b1217f22fc02/e9dc3e70-8b5d-4bed-a09a-9a0cd4b1e7f7"
       (reference "#PWR0250") (unit 1) (value "VDDF") (footprint "")
     )
-    (path "/d7e08e46-990d-4e27-b9cb-1b29fb4b0562/90d81fee-5b02-4f66-adf4-b1217f22fc02/89399b41-5821-48e9-940e-7d2114114665"
-      (reference "#PWR0251") (unit 1) (value "VDDF") (footprint "")
-    )
-    (path "/d7e08e46-990d-4e27-b9cb-1b29fb4b0562/90d81fee-5b02-4f66-adf4-b1217f22fc02/5b472fec-1be2-423f-a8ae-07a5f7bc87f2"
-      (reference "#PWR0252") (unit 1) (value "VDDF") (footprint "")
-    )
     (path "/d7e08e46-990d-4e27-b9cb-1b29fb4b0562/90d81fee-5b02-4f66-adf4-b1217f22fc02/08bb4916-48dd-41af-bc6e-ff541ff6ee5e"
       (reference "#PWR0253") (unit 1) (value "GNDD") (footprint "")
     )
@@ -3286,7 +3280,7 @@
       (reference "RF_D2") (unit 1) (value "BB329A") (footprint "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal")
     )
     (path "/d7e08e46-990d-4e27-b9cb-1b29fb4b0562/90d81fee-5b02-4f66-adf4-b1217f22fc02/ce066aa2-0fee-4485-82d9-5d6ca8e7d023"
-      (reference "RF_J1") (unit 1) (value "RF_OUT") (footprint "RCJ-041:RCJ041")
+      (reference "RF_J1") (unit 1) (value "RF_OUT") (footprint "RCJ-041:RCJ041_copy")
     )
     (path "/d7e08e46-990d-4e27-b9cb-1b29fb4b0562/90d81fee-5b02-4f66-adf4-b1217f22fc02/1bb4142f-f949-4c69-9c5a-eef9e37c3997"
       (reference "RF_JP1") (unit 1) (value "Jumper_2_Bridged") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal")
