@@ -2785,7 +2785,7 @@
       (reference "C2") (unit 1) (value "100nF") (footprint "Capacitor_THT:C_Disc_D7.0mm_W2.5mm_P5.00mm")
     )
     (path "/00000000-0000-0000-0000-00006262cd5c/c8240303-adeb-420c-b04a-34efb3184525"
-      (reference "C3") (unit 1) (value "10uF") (footprint "Capacitor_THT:CP_Radial_Tantal_D4.5mm_P5.00mm")
+      (reference "C3") (unit 1) (value "10uF") (footprint "Capacitor_THT:CP_Radial_D8.0mm_P5.00mm")
     )
     (path "/00000000-0000-0000-0000-00006262cd5c/e3fb8d0b-d339-49fd-8553-1bd9a5b4c968"
       (reference "C4") (unit 1) (value "68pF") (footprint "Capacitor_THT:C_Disc_D7.0mm_W2.5mm_P5.00mm")
@@ -2815,7 +2815,7 @@
       (reference "C13") (unit 1) (value "100nF") (footprint "Capacitor_THT:C_Disc_D7.0mm_W2.5mm_P5.00mm")
     )
     (path "/00000000-0000-0000-0000-000062624749/5610fe27-c818-4626-b129-308ea5b84d45"
-      (reference "C16") (unit 1) (value "10uF") (footprint "Capacitor_THT:CP_Radial_Tantal_D4.5mm_P5.00mm")
+      (reference "C16") (unit 1) (value "10uF") (footprint "Capacitor_THT:CP_Radial_D8.0mm_P5.00mm")
     )
     (path "/209bcd49-5218-4a3a-835e-04ab78c027d2/f27ae0f4-394c-4b24-a08b-c77052064d0d"
       (reference "C17") (unit 1) (value "100nF") (footprint "Capacitor_THT:C_Disc_D7.0mm_W2.5mm_P5.00mm")
@@ -2857,10 +2857,10 @@
       (reference "C32") (unit 1) (value "100nF") (footprint "Capacitor_THT:C_Disc_D7.0mm_W2.5mm_P5.00mm")
     )
     (path "/00000000-0000-0000-0000-000062624797/5ff6704f-5c4a-4537-826f-7ab622c42c63"
-      (reference "C34") (unit 1) (value "10uF") (footprint "Capacitor_THT:CP_Radial_Tantal_D4.5mm_P5.00mm")
+      (reference "C34") (unit 1) (value "10uF") (footprint "Capacitor_THT:CP_Radial_D8.0mm_P5.00mm")
     )
     (path "/00000000-0000-0000-0000-000062624797/f5b646e8-513f-4b3f-9539-ae7405fd069a"
-      (reference "C36") (unit 1) (value "10uF") (footprint "Capacitor_THT:CP_Radial_Tantal_D4.5mm_P5.00mm")
+      (reference "C36") (unit 1) (value "10uF") (footprint "Capacitor_THT:CP_Radial_D8.0mm_P5.00mm")
     )
     (path "/00000000-0000-0000-0000-00006262475e/c7cdbd1f-36c3-4ecb-910e-18ecc5705308"
       (reference "C37") (unit 1) (value "100nF") (footprint "Capacitor_THT:C_Disc_D7.0mm_W2.5mm_P5.00mm")
@@ -2929,7 +2929,7 @@
       (reference "C67") (unit 1) (value "100nF") (footprint "Capacitor_THT:C_Disc_D7.0mm_W2.5mm_P5.00mm")
     )
     (path "/d7e08e46-990d-4e27-b9cb-1b29fb4b0562/5d11d4e1-87f8-4afb-807e-34af76873f4f"
-      (reference "C68") (unit 1) (value "10uF") (footprint "Capacitor_THT:CP_Radial_Tantal_D4.5mm_P5.00mm")
+      (reference "C68") (unit 1) (value "10uF") (footprint "Capacitor_THT:CP_Radial_D8.0mm_P5.00mm")
     )
     (path "/d7e08e46-990d-4e27-b9cb-1b29fb4b0562/d9bd3109-ac8b-4ab3-8670-006c82aca1b9"
       (reference "C69") (unit 1) (value "47nF") (footprint "Capacitor_THT:C_Disc_D7.0mm_W2.5mm_P5.00mm")
@@ -2941,7 +2941,7 @@
       (reference "C78") (unit 1) (value "10nF") (footprint "Capacitor_THT:C_Disc_D7.0mm_W2.5mm_P5.00mm")
     )
     (path "/d7e08e46-990d-4e27-b9cb-1b29fb4b0562/965773e6-b0b9-43a0-9d6d-2a6e8f1d502a"
-      (reference "C87") (unit 1) (value "10uF") (footprint "Capacitor_THT:CP_Radial_Tantal_D4.5mm_P5.00mm")
+      (reference "C87") (unit 1) (value "10uF") (footprint "Capacitor_THT:CP_Radial_D8.0mm_P5.00mm")
     )
     (path "/d7e08e46-990d-4e27-b9cb-1b29fb4b0562/b2c70775-30a5-4716-8a0e-352452a84339"
       (reference "C88") (unit 1) (value "100nF") (footprint "Capacitor_THT:C_Disc_D7.0mm_W2.5mm_P5.00mm")
@@ -3019,10 +3019,10 @@
       (reference "J4B1") (unit 1) (value "Conn_01x08") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical")
     )
     (path "/209bcd49-5218-4a3a-835e-04ab78c027d2/f724e202-ef67-446f-a625-7f0e02ce544f"
-      (reference "J5") (unit 1) (value "DB9_Male") (footprint "Connector_Dsub:DSUB-9_Male_Horizontal_P2.77x2.54mm_EdgePinOffset9.40mm")
+      (reference "J5") (unit 1) (value "DB9_Male") (footprint "Connector_Dsub:DSUB-9_Male_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm")
     )
     (path "/209bcd49-5218-4a3a-835e-04ab78c027d2/c7ba983d-fc91-4de4-bc52-6c12c5d0decd"
-      (reference "J6") (unit 1) (value "DB9_Male") (footprint "Connector_Dsub:DSUB-9_Male_Horizontal_P2.77x2.54mm_EdgePinOffset9.40mm")
+      (reference "J6") (unit 1) (value "DB9_Male") (footprint "Connector_Dsub:DSUB-9_Male_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm")
     )
     (path "/00000000-0000-0000-0000-00006262cd34/9bc74abf-68e5-43b0-a63c-3114f4f9b27d"
       (reference "JP1") (unit 1) (value "SolderJumper_2_Open") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm")

@@ -562,7 +562,7 @@
     (uuid 5610fe27-c818-4626-b129-308ea5b84d45)
     (property "Reference" "C16" (id 0) (at 137.795 66.04 90))
     (property "Value" "10uF" (id 1) (at 137.795 67.945 90))
-    (property "Footprint" "Capacitor_THT:CP_Radial_Tantal_D4.5mm_P5.00mm" (id 2) (at 133.985 72.7202 0)
+    (property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P5.00mm" (id 2) (at 133.985 72.7202 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 137.795 71.755 0)
