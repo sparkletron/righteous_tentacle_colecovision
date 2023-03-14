@@ -2228,7 +2228,7 @@
     (uuid d73b8353-7ac0-432a-98f5-312f39746285)
     (property "Reference" "J4B1" (id 0) (at 38.1 111.76 0))
     (property "Value" "Conn_01x08" (id 1) (at 38.1 114.3 0))
-    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical" (id 2) (at 38.1 100.33 0)
+    (property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical" (id 2) (at 38.1 100.33 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 38.1 100.33 0)

@@ -2552,7 +2552,7 @@
       (reference "J4A1") (unit 1) (value "Conn_01x08") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical")
     )
     (path "/d7e08e46-990d-4e27-b9cb-1b29fb4b0562/90d81fee-5b02-4f66-adf4-b1217f22fc02/d73b8353-7ac0-432a-98f5-312f39746285"
-      (reference "J4B1") (unit 1) (value "Conn_01x08") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical")
+      (reference "J4B1") (unit 1) (value "Conn_01x08") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical")
     )
     (path "/209bcd49-5218-4a3a-835e-04ab78c027d2/f724e202-ef67-446f-a625-7f0e02ce544f"
       (reference "J5") (unit 1) (value "DB9_Male") (footprint "Connector_Dsub:DSUB-9_Male_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm")
