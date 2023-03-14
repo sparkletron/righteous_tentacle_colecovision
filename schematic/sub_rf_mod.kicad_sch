@@ -5,10 +5,12 @@
   (paper "USLetter")
 
   (title_block
-    (title "Colecovision Schematic")
-    (date "2023-01-09")
-    (rev "E.0")
+    (title "Reverse Engineer Colecovision")
+    (date "2023-03-14")
+    (rev "DEV")
+    (company "sparkletron")
     (comment 1 "Jay Convertino")
+    (comment 2 "MIT LICENSE")
   )
 
   (lib_symbols
