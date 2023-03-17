@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 1.1,
-          "height": 1.65,
-          "width": 1.65
+          "drill": 2.25,
+          "height": 2.5,
+          "width": 2.5
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -57,7 +57,9 @@
       ],
       "drc_exclusions": [
         "clearance|123440000|38199000|5a1ab778-6134-4b50-ab58-66888700b974|9ea8e051-aec0-48c6-ae23-5093bb36dc19",
+        "clearance|123440000|38485000|5a1ab778-6134-4b50-ab58-66888700b974|9ea8e051-aec0-48c6-ae23-5093bb36dc19",
         "clearance|130290000|38349000|36db79fa-e417-488c-8557-b9f3caba45ce|f840a4f5-4ce7-490a-8594-c3586a3ad75b",
+        "clearance|130290000|38635000|36db79fa-e417-488c-8557-b9f3caba45ce|f840a4f5-4ce7-490a-8594-c3586a3ad75b",
         "copper_edge_clearance|116586000|325894000|cfdd15a2-55a8-4205-9c81-1f994dfb75ba|40bc5820-a618-4a6b-9caa-079bafa691df",
         "copper_edge_clearance|116586000|325894000|cfdd15a2-55a8-4205-9c81-1f994dfb75ba|fedf76d5-c246-4685-8c89-af31a2e47ef4",
         "copper_edge_clearance|118618000|325894000|cfdd15a2-55a8-4205-9c81-1f994dfb75ba|6889ff52-773b-48b7-8cba-f399534f0e2a",
@@ -461,12 +463,31 @@
         "line_style": 0,
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
+        "name": "main_5v_power",
+        "nets": [
+          "+5C",
+          "/psu/+5NF"
+        ],
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 2.54,
+        "via_diameter": 2.286,
+        "via_drill": 1.143,
+        "wire_width": 6.0
+      },
+      {
+        "bus_width": 12.0,
+        "clearance": 0.381,
+        "diff_pair_gap": 0.25,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
         "name": "main_power",
         "nets": [
           "+12C",
-          "+5C",
-          "/psu/+12NF",
-          "/psu/+5NF"
+          "/psu/+12NF"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
@@ -500,7 +521,7 @@
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.762,
+        "track_width": 1.016,
         "via_diameter": 1.524,
         "via_drill": 0.8128,
         "wire_width": 6.0
