@@ -2394,6 +2394,12 @@
     (path "/d7e08e46-990d-4e27-b9cb-1b29fb4b0562/90d81fee-5b02-4f66-adf4-b1217f22fc02/e9dc3e70-8b5d-4bed-a09a-9a0cd4b1e7f7"
       (reference "#PWR0250") (unit 1) (value "VDDF") (footprint "")
     )
+    (path "/00000000-0000-0000-0000-000062624797/949afc7a-04b0-4c36-a167-bd9f390ea8d8"
+      (reference "#PWR0251") (unit 1) (value "GNDD") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-000062624797/7c4c7d94-80e5-4be6-b8a2-38266924bfc2"
+      (reference "#PWR0252") (unit 1) (value "GNDD") (footprint "")
+    )
     (path "/d7e08e46-990d-4e27-b9cb-1b29fb4b0562/90d81fee-5b02-4f66-adf4-b1217f22fc02/08bb4916-48dd-41af-bc6e-ff541ff6ee5e"
       (reference "#PWR0253") (unit 1) (value "GNDD") (footprint "")
     )
@@ -2465,6 +2471,21 @@
     )
     (path "/d7e08e46-990d-4e27-b9cb-1b29fb4b0562/9b137d99-6ea8-4d6d-99e8-dd4f98cf7ea6"
       (reference "#PWR0276") (unit 1) (value "+12VL") (footprint "")
+    )
+    (path "/d7e08e46-990d-4e27-b9cb-1b29fb4b0562/579ddd5a-e89a-4205-8102-c0d0c3dccf80"
+      (reference "#PWR0277") (unit 1) (value "GNDD") (footprint "")
+    )
+    (path "/d7e08e46-990d-4e27-b9cb-1b29fb4b0562/72e8648e-cb85-4c69-94ce-c66a1a57fb79"
+      (reference "#PWR0278") (unit 1) (value "GNDD") (footprint "")
+    )
+    (path "/d7e08e46-990d-4e27-b9cb-1b29fb4b0562/656131a5-d358-4a67-8b05-f8d1630a027b"
+      (reference "#PWR0279") (unit 1) (value "GNDD") (footprint "")
+    )
+    (path "/d7e08e46-990d-4e27-b9cb-1b29fb4b0562/569936ee-4271-4e65-adc8-1df52eb50aa1"
+      (reference "#PWR0280") (unit 1) (value "GNDD") (footprint "")
+    )
+    (path "/d7e08e46-990d-4e27-b9cb-1b29fb4b0562/c991f085-ec3c-46d9-97ad-22a64f2eb9ab"
+      (reference "#PWR0281") (unit 1) (value "GNDD") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00006262cd5c/56a635e4-d620-4d70-a061-5949ab39e74d"
       (reference "C1") (unit 1) (value "10nF") (footprint "Capacitor_THT:C_Disc_D7.0mm_W2.5mm_P5.00mm")
@@ -2629,7 +2650,7 @@
       (reference "C78") (unit 1) (value "10nF") (footprint "Capacitor_THT:C_Disc_D7.0mm_W2.5mm_P5.00mm")
     )
     (path "/d7e08e46-990d-4e27-b9cb-1b29fb4b0562/965773e6-b0b9-43a0-9d6d-2a6e8f1d502a"
-      (reference "C87") (unit 1) (value "10uF") (footprint "Capacitor_THT:CP_Radial_D8.0mm_P5.00mm")
+      (reference "C87") (unit 1) (value "10uF") (footprint "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm")
     )
     (path "/d7e08e46-990d-4e27-b9cb-1b29fb4b0562/b2c70775-30a5-4716-8a0e-352452a84339"
       (reference "C88") (unit 1) (value "100nF") (footprint "Capacitor_THT:C_Disc_D7.0mm_W2.5mm_P5.00mm")
@@ -2690,6 +2711,27 @@
     )
     (path "/108b7016-3060-41aa-8f8f-e42105438eae"
       (reference "H5") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_5.3mm_M5_ISO14580_Pad")
+    )
+    (path "/00000000-0000-0000-0000-000062624797/de7d0ba1-ce01-4a2b-8742-77db1da6f404"
+      (reference "H6") (unit 1) (value "MountingHole_Pad") (footprint "mount_points:SWITCH_MOUNT")
+    )
+    (path "/00000000-0000-0000-0000-000062624797/b60f56b1-09ae-474f-a19c-8de7583b2f63"
+      (reference "H7") (unit 1) (value "MountingHole_Pad") (footprint "mount_points:SWITCH_MOUNT")
+    )
+    (path "/d7e08e46-990d-4e27-b9cb-1b29fb4b0562/a04f29c0-b3c3-4474-8c51-28db41f418ce"
+      (reference "H8") (unit 1) (value "MountingHole_Pad") (footprint "mount_points:RF_MOUNT")
+    )
+    (path "/d7e08e46-990d-4e27-b9cb-1b29fb4b0562/7e3c7b2f-354b-4528-b5dd-1f9ff18f1faa"
+      (reference "H9") (unit 1) (value "MountingHole_Pad") (footprint "mount_points:RF_MOUNT")
+    )
+    (path "/d7e08e46-990d-4e27-b9cb-1b29fb4b0562/c9ede38e-51e3-4c42-93f5-1ceb5e258336"
+      (reference "H10") (unit 1) (value "MountingHole_Pad") (footprint "mount_points:RF_MOUNT")
+    )
+    (path "/d7e08e46-990d-4e27-b9cb-1b29fb4b0562/6e85e3b1-b2ec-414e-974e-502d4881b992"
+      (reference "H11") (unit 1) (value "MountingHole_Pad") (footprint "mount_points:RF_MOUNT")
+    )
+    (path "/d7e08e46-990d-4e27-b9cb-1b29fb4b0562/cb83f5f5-ccae-4d72-84be-9a6b2aab046f"
+      (reference "H12") (unit 1) (value "MountingHole_Pad") (footprint "mount_points:RF_MOUNT")
     )
     (path "/00000000-0000-0000-0000-000062624797/f0c02000-a69d-4462-a2f1-3f61044b2f78"
       (reference "J0") (unit 1) (value "Conn_01x04") (footprint "Connector_Molex:Molex_KK-396_A-41791-0004_1x04_P3.96mm_Vertical")

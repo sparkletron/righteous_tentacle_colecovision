@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MHPS2273
+D Pushbutton Switches 7mm DPDT PUSH PUSH
+K
+F https://datasheet.datasheetarchive.com/originals/dk/DKDS-1/4615.pdf
+$ENDCMP
+#
+#End Doc Library

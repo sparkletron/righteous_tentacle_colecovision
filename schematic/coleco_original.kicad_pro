@@ -493,6 +493,7 @@
           "-5C",
           "-5V",
           "-5VL",
+          "/rf_mod/sub_rf_mod/VDDF_JP",
           "GNDD",
           "VDDA",
           "VDDF"
