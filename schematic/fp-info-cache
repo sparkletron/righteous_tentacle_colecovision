@@ -1,4 +1,4 @@
-20890809403549540
+20895847632542706
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -80854,8 +80854,8 @@ Coleco_RST
 
 
 0
+10
 4
-3
 Switches_THT
 DPDT_GF-626-0061
 
@@ -87478,6 +87478,27 @@ varistor
 0
 2
 2
+logos
+board_revision
+
+
+0
+0
+0
+logos
+rf_board_revision
+
+
+0
+0
+0
+logos
+sparkletron
+
+
+0
+0
+0
 mount_points
 RF_MOUNT
 
