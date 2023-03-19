@@ -11,6 +11,7 @@
     (company "sparkletron")
     (comment 1 "Jay Convertino")
     (comment 2 "MIT LICENSE")
+    (comment 3 "PCB: 75745 REV E")
   )
 
   (lib_symbols
@@ -1671,7 +1672,9 @@
   (symbol (lib_id "logos:rf_board_rev") (at 24.13 196.85 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 2abbfc03-a563-48a4-ba1a-a27f38db454f)
-    (property "Reference" "S5" (id 0) (at 25.4 193.04 0))
+    (property "Reference" "S5" (id 0) (at 25.4 193.04 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (property "Value" "rf_board_rev" (id 1) (at 24.13 191.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )

@@ -11,6 +11,7 @@
     (company "sparkletron")
     (comment 1 "Jay Convertino")
     (comment 2 "MIT LICENSE")
+    (comment 3 "PCB: 75743 REV F")
   )
 
   (lib_symbols
