@@ -1,4 +1,4 @@
-# Colecovision Reverse Engineering Project
+# Righteous Tentacle, Colecovision Reverse Engineering Project
 ### Schematic and PCB reproduction.
 
 ---
@@ -12,6 +12,9 @@
   license: MIT
 
 ---
+
+## TODO
+  - So much, Wiki fixes, documents, and PCB build and checks.
 
 ## LICENSE
   - All files related to or generated from the KiCAD source fall under the MIT license.
@@ -34,12 +37,11 @@
   - Atari HQ Schematic : https://wiki.console5.com/wiki/Colecovision : Dan Boris
   - Atari Age : https://forums.atariage.com/topic/285656-new-colecovision-schematics/ : ChildOfCV
 
-  Did find a few issues with mine vs the ChildOfCV version, though my board is a different revision.
-  All mistakes were in the RF Stage on my schematic. Special thanks to ChildOfCV, having a source to check
-  against that is as good as his really helped my project.
+  Did find a few issues with mine vs the ChildOfCV version, my board is a different revision so they will differ in subtle ways.
+  Special thanks to ChildOfCV, his schematic is great.
 
-  The Dan Boris schematic is ok, has a few mistakes that I can't recall at the moment. Though the ChildOfCV
-  is the superior rendition.
+  The Dan Boris schematic is ok, has a few mistakes that I can't recall at the moment. Mentioning it since I did look at it, but
+  due to its issues I didn't use it.
 
 ## REQUIREMENTS
   - KiCAD v6.X
@@ -51,3 +53,7 @@
 
 ## FILE INFORMATION
   - ALL BE THE FILES
+
+## PCB IMAGE
+
+![pcb_3D_img](pics/3D/coleco_original_both.png)

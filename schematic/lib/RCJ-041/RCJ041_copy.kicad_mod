@@ -39,8 +39,8 @@
   (fp_line (start 13.5 -4.15) (end 4 -4.15) (layer "F.Fab") (width 0.2) (tstamp f00b0d8d-7093-4c74-8b73-bfe6a1d9477e))
   (pad "" np_thru_hole circle (at 3.15 4.25) (size 0.001 0.001) (drill 2.476) (layers *.Cu *.Mask) (tstamp 70a76dcc-44e2-4573-87e5-f817e25bf25b))
   (pad "" np_thru_hole circle (at 3.15 -4.25) (size 0.001 0.001) (drill 2.476) (layers *.Cu *.Mask) (tstamp 79a80527-47a3-4365-8314-6b1271b8dbd2))
-  (pad "S" thru_hole circle (at -4.5 0) (size 4.039 4.039) (drill 2.6926) (layers *.Cu *.Mask) (tstamp 630d744e-d3e4-49cf-8f7b-f63a5ec36dea))
-  (pad "T" thru_hole circle (at 0 0) (size 4.227 4.227) (drill 2.818) (layers *.Cu *.Mask) (tstamp 8bbb9d01-f835-4102-9a08-9cde42ed993c))
+  (pad "S" thru_hole circle (at 0 0) (size 4.227 4.227) (drill 2.818) (layers *.Cu *.Mask) (tstamp 8bbb9d01-f835-4102-9a08-9cde42ed993c))
+  (pad "T" thru_hole circle (at -4.5 0) (size 4.039 4.039) (drill 2.6926) (layers *.Cu *.Mask) (tstamp 630d744e-d3e4-49cf-8f7b-f63a5ec36dea))
   (model "RCJ-041.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))

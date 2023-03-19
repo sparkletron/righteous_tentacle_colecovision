@@ -5,7 +5,7 @@
   (paper "USLetter")
 
   (title_block
-    (title "Reverse Engineer Colecovision")
+    (title "Righteous Tentacle, Colecovision Reverse Engineering Project")
     (date "2023-03-14")
     (rev "DEV")
     (company "sparkletron")
