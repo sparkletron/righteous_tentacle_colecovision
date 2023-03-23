@@ -6,4 +6,5 @@
   (lib (name "Switches_THT")(type "KiCad")(uri "${KIPRJMOD}/lib/SWITCHES_THT/Switches_THT.pretty")(options "")(descr ""))
   (lib (name "mount_points")(type "KiCad")(uri "${KIPRJMOD}/lib/MOUNTS/mount_points.pretty")(options "")(descr ""))
   (lib (name "logos")(type "KiCad")(uri "${KIPRJMOD}/lib/LOGOS/logos.pretty")(options "")(descr ""))
+  (lib (name "jumper_pads")(type "KiCad")(uri "${KIPRJMOD}/lib/PADS/jumper_pads.pretty")(options "")(descr ""))
 )

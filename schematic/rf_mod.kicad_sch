@@ -1983,7 +1983,7 @@
   (symbol (lib_id "Power_Symbols:+12VL") (at 156.21 94.615 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 8d0059cd-8a6b-41a8-92d1-ba194ba3005f)
-    (property "Reference" "#PWR?" (id 0) (at 156.21 92.075 0)
+    (property "Reference" "#PWR0283" (id 0) (at 156.21 92.075 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+12VL" (id 1) (at 159.385 90.805 0)

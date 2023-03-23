@@ -2568,7 +2568,7 @@
       (reference "#PWR0282") (unit 1) (value "GNDD") (footprint "")
     )
     (path "/d7e08e46-990d-4e27-b9cb-1b29fb4b0562/8d0059cd-8a6b-41a8-92d1-ba194ba3005f"
-      (reference "#PWR?") (unit 1) (value "+12VL") (footprint "")
+      (reference "#PWR0283") (unit 1) (value "+12VL") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00006262cd5c/56a635e4-d620-4d70-a061-5949ab39e74d"
       (reference "C1") (unit 1) (value "10nF") (footprint "Capacitor_THT:C_Disc_D7.0mm_W2.5mm_P5.00mm")
@@ -2844,10 +2844,10 @@
       (reference "J6") (unit 1) (value "DB9_Male") (footprint "Connector_Dsub:DSUB-9_Male_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm")
     )
     (path "/00000000-0000-0000-0000-00006262cd34/9bc74abf-68e5-43b0-a63c-3114f4f9b27d"
-      (reference "JP1") (unit 1) (value "SolderJumper_2_Open") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm")
+      (reference "JP1") (unit 1) (value "SolderJumper_2_Open") (footprint "jumper_pads:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm")
     )
     (path "/00000000-0000-0000-0000-00006262cd34/2e003dcc-f1bf-4354-8ea1-4ac1730d433e"
-      (reference "JP2") (unit 1) (value "SolderJumper_2_Open") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm")
+      (reference "JP2") (unit 1) (value "SolderJumper_2_Open") (footprint "jumper_pads:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm")
     )
     (path "/00000000-0000-0000-0000-000062624797/1636cc6f-036d-44ad-8831-da15978e8ac2"
       (reference "L2") (unit 1) (value "10uH") (footprint "Inductor_THT:L_Axial_L11.0mm_D4.5mm_P7.62mm_Vertical_Fastron_MECC")
