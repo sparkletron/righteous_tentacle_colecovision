@@ -2838,10 +2838,10 @@
       (reference "J4B1") (unit 1) (value "Conn_01x08") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical")
     )
     (path "/209bcd49-5218-4a3a-835e-04ab78c027d2/f724e202-ef67-446f-a625-7f0e02ce544f"
-      (reference "J5") (unit 1) (value "DB9_Male") (footprint "Connector_Dsub:DSUB-9_Male_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm")
+      (reference "J5") (unit 1) (value "Player 1") (footprint "Connector_Dsub:DSUB-9_Male_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm")
     )
     (path "/209bcd49-5218-4a3a-835e-04ab78c027d2/c7ba983d-fc91-4de4-bc52-6c12c5d0decd"
-      (reference "J6") (unit 1) (value "DB9_Male") (footprint "Connector_Dsub:DSUB-9_Male_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm")
+      (reference "J6") (unit 1) (value "Player 2") (footprint "Connector_Dsub:DSUB-9_Male_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm")
     )
     (path "/00000000-0000-0000-0000-00006262cd34/9bc74abf-68e5-43b0-a63c-3114f4f9b27d"
       (reference "JP1") (unit 1) (value "SolderJumper_2_Open") (footprint "jumper_pads:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm")
