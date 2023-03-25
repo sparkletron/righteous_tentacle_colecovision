@@ -3150,7 +3150,7 @@
       (reference "RF_R12") (unit 1) (value "15K") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
     )
     (path "/d7e08e46-990d-4e27-b9cb-1b29fb4b0562/90d81fee-5b02-4f66-adf4-b1217f22fc02/8830fa33-3587-4116-b46e-b75b515eadb7"
-      (reference "RF_SW1") (unit 1) (value "SW_SPDT") (footprint "Button_Switch_THT:SW_CuK_OS102011MA1QN1_SPDT_Angled")
+      (reference "RF_SW1") (unit 1) (value "SW_SPDT") (footprint "Switches_THT:SW_CuK_OS102011MA1QN1_SPDT_Angled")
     )
     (path "/d7e08e46-990d-4e27-b9cb-1b29fb4b0562/90d81fee-5b02-4f66-adf4-b1217f22fc02/9d432e97-394e-4219-b0db-dc22846d5263"
       (reference "RF_U1") (unit 1) (value "LM1889") (footprint "Package_DIP:DIP-18_W7.62mm_LongPads")

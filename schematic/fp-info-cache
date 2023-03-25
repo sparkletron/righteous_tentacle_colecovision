@@ -1,4 +1,4 @@
-20897529961386212
+20899211311722514
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -80863,6 +80863,13 @@ DPDT_GF-626-0061
 0
 6
 6
+Switches_THT
+SW_CuK_OS102011MA1QN1_SPDT_Angled
+CuK miniature slide switch, OS series, SPDT, right angle, http://www.ckswitches.com/media/1428/os.pdf
+switch SPDT
+0
+5
+3
 Symbol
 CE-Logo_8.5x6mm_SilkScreen
 CE marking
