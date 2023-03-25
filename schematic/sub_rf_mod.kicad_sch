@@ -1491,7 +1491,7 @@
     (uuid ff40378c-6506-449d-a087-cc99e956dbcf)
   )
 
-  (label "VDDF_JP" (at 97.79 140.97 0)
+  (label "VDDF_JP" (at 158.75 69.215 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid c6654019-5f23-4eea-a50e-aa422d0fd3d5)
   )
