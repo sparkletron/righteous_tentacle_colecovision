@@ -442,15 +442,15 @@
         "microvia_drill": 0.1,
         "name": "power",
         "nets": [
-          "+12V",
           "+12VL",
           "+5V",
           "+5VD",
           "-5C",
-          "-5V",
           "-5VL",
           "/rf_mod/sub_rf_mod/VDDF_JP",
           "GNDD",
+          "VCCQ",
+          "VDD",
           "VDDA",
           "VDDF"
         ],
