@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "6.0.11-2627ca5db0~126~ubuntu22.04.1"
     },
-    "CreationDate": "2023-03-24T15:20:38-04:00"
+    "CreationDate": "2023-04-01T15:20:29-04:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -15,7 +15,7 @@
     },
     "Size": {
       "X": 168.502,
-      "Y": 213.968
+      "Y": 214.095
     },
     "LayerNumber": 2,
     "BoardThickness": 1.6,
@@ -24,12 +24,12 @@
   "DesignRules": [
     {
       "Layers": "Outer",
-      "PadToPad": 0.0254,
-      "PadToTrack": 0.0254,
-      "TrackToTrack": 0.254,
+      "PadToPad": 0.2,
+      "PadToTrack": 0.2,
+      "TrackToTrack": 0.2,
       "MinLineWidth": 0.3048,
-      "TrackToRegion": 0.508,
-      "RegionToRegion": 0.508
+      "TrackToRegion": 0.3048,
+      "RegionToRegion": 0.3048
     }
   ],
   "FilesAttributes": [
@@ -44,8 +44,18 @@
       "FilePolarity": "Positive"
     },
     {
-      "Path": "coleco_original_main_only-Edge_Cuts_Mill.gbr",
-      "FileFunction": "Other,User",
+      "Path": "coleco_original_main_only-F_Silkscreen.gbr",
+      "FileFunction": "Legend,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "coleco_original_main_only-B_Silkscreen.gbr",
+      "FileFunction": "Legend,Bot",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "coleco_original_main_only-Edge_Cuts.gbr",
+      "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
   ],
