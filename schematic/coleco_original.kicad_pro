@@ -449,8 +449,6 @@
           "-5VL",
           "/rf_mod/sub_rf_mod/VDDF_JP",
           "GNDD",
-          "VCCQ",
-          "VDD",
           "VDDA",
           "VDDF"
         ],
