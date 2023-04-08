@@ -29,11 +29,11 @@
   - None
 
 ## Wiki
-  - Please see the [Wiki](./wiki) for various information.
+  - Please see the [Wiki](../../wiki) for various information.
 
 ## Parts list
-  - [Link to Wiki Parts list for the original console](wiki/Detailed-Part-Listing-For-Original)
-  - [Link to Wiki Parts list for ordering parts](wiki/Detailed-Part-Listing-For-Orders)
+  - [Link to Wiki Parts list for the original console](../../wiki/Detailed-Part-Listing-For-Original)
+  - [Link to Wiki Parts list for ordering parts](../../wiki/Detailed-Part-Listing-For-Orders)
 
 ## PROCESS IDEAS
   - FIRST: Reverse engineer without outside resources. Only a internal reverse engineering of the board for the schematic. **COMPLETE**
