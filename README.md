@@ -70,10 +70,10 @@
   - doc, contains various documents used.
     - datasheets, contains parts used on the original board.
     - refs, sources used for checks
-     - Coleco_ADAM_Schematic_-_Delta_Game.png, publicly available schematic of the ADAM
-     - Coleco.zip, ChildOfCV schematic for the console and other various parts of the colecovision.
-     - colecovision_atari_hq_schematic.pdf, Colecovision console schematic has errors.
-     - tms-doc-annotated.pdf, TMS design document corrected by Nicholas Piegdon
+      - Coleco_ADAM_Schematic_-_Delta_Game.png, publicly available schematic of the ADAM
+      - Coleco.zip, ChildOfCV schematic for the console and other various parts of the colecovision.
+      - colecovision_atari_hq_schematic.pdf, Colecovision console schematic has errors.
+      - tms-doc-annotated.pdf, TMS design document corrected by Nicholas Piegdon
   - models, PCB items and case designes
     - component_search_engine
     - FreeCAD
