@@ -3100,7 +3100,7 @@
       (reference "RF_C1") (unit 1) (value "1nF") (footprint "Capacitor_THT:C_Disc_D7.0mm_W2.5mm_P5.00mm")
     )
     (path "/d7e08e46-990d-4e27-b9cb-1b29fb4b0562/90d81fee-5b02-4f66-adf4-b1217f22fc02/7fc5b296-8d46-4988-ae53-48c1af8243af"
-      (reference "RF_C2") (unit 1) (value "10pF") (footprint "Capacitor_THT:C_Disc_D7.0mm_W2.5mm_P5.00mm")
+      (reference "RF_C2") (unit 1) (value "10nF") (footprint "Capacitor_THT:C_Disc_D7.0mm_W2.5mm_P5.00mm")
     )
     (path "/d7e08e46-990d-4e27-b9cb-1b29fb4b0562/90d81fee-5b02-4f66-adf4-b1217f22fc02/74732986-c4b7-42ce-bda6-0a6955e21a5f"
       (reference "RF_C3") (unit 1) (value "10nF") (footprint "Capacitor_THT:C_Disc_D7.0mm_W2.5mm_P5.00mm")

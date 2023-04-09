@@ -2009,7 +2009,7 @@
     (property "Reference" "RF_C2" (id 0) (at 64.77 130.175 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "10pF" (id 1) (at 63.5 132.08 0)
+    (property "Value" "10nF" (id 1) (at 63.5 132.08 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "Capacitor_THT:C_Disc_D7.0mm_W2.5mm_P5.00mm" (id 2) (at 68.9102 127 0)
