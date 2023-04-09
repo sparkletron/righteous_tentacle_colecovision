@@ -94,22 +94,22 @@
       - rf, modulator PCB
     - GIMP_Placement_Tool, gimp project used to help place parts in the correct locations.
     - lib, external components for KiCAD
-     - CONNECTOR_PCBEdge_EXT
-     - LOGOS
-     - MHPS2273
-     - MODELS
-     - MOUNTS
-     - OS102011MA1QN1
-     - PADS
-     - POWER_SYMBOLS
-     - RCJ-041
-     - RF_MODULATORS
-     - SWITCHES_THT
-     - TE_550841-2
-     - VARIABLE_INDUCTORS
-     - VINTAGE_AUDIO_SYNTH
-     - VINTAGE_RAM
-     - VINTAGE_VDP
+      - CONNECTOR_PCBEdge_EXT
+      - LOGOS
+      - MHPS2273
+      - MODELS
+      - MOUNTS
+      - OS102011MA1QN1
+      - PADS
+      - POWER_SYMBOLS
+      - RCJ-041
+      - RF_MODULATORS
+      - SWITCHES_THT
+      - TE_550841-2
+      - VARIABLE_INDUCTORS
+      - VINTAGE_AUDIO_SYNTH
+      - VINTAGE_RAM
+      - VINTAGE_VDP
     - PDF, various KiCAD exports in the PDF format. PCB and/or schematics.
 
 ## PCB IMAGE
