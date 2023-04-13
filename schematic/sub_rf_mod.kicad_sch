@@ -2045,7 +2045,7 @@
     (uuid 8830fa33-3587-4116-b46e-b75b515eadb7)
     (property "Reference" "RF_SW1" (id 0) (at 104.775 94.615 0))
     (property "Value" "SW_SPDT" (id 1) (at 104.775 96.52 0))
-    (property "Footprint" "Switches_THT:SW_CuK_OS102011MA1QN1_SPDT_Angled" (id 2) (at 108.585 92.075 0)
+    (property "Footprint" "1101M2S3ABE2:1101M2S3ABE2" (id 2) (at 108.585 92.075 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 108.585 92.075 0)

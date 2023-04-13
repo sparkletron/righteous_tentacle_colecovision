@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1101M2S3AQE2
+D PCB Slide Switch Single Pole Double Throw (SPDT) Latching 6 A @ 120 V ac, 6 A @ 28 V dc Slide
+K
+F https://www.ckswitches.com/media/1429/1000.pdf
+$ENDCMP
+#
+#End Doc Library
