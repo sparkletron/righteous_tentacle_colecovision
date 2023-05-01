@@ -1,11 +1,11 @@
-20900895556913622
+20902588146146083
 1101M2S3ABE2
 1101M2S3ABE2
 1101M2S3ABE2-1
 Switch
 0
 5
-5
+4
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -87520,6 +87520,13 @@ sparkletron
 0
 0
 0
+mount_points
+MountingHole_7mm_M7
+MountingHole_7mm_M7
+Mounting Hole 7mm M7
+0
+1
+1
 mount_points
 RF_MOUNT
 

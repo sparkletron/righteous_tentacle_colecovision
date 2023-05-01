@@ -1180,7 +1180,7 @@
     (property "Value" "MountingHole_Pad" (id 1) (at 231.14 21.5899 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "MountingHole:MountingHole_6.4mm_M6_DIN965_Pad" (id 2) (at 227.965 21.59 0)
+    (property "Footprint" "mount_points:MountingHole_7mm_M7" (id 2) (at 227.965 21.59 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 227.965 21.59 0)
@@ -1214,7 +1214,7 @@
     (property "Value" "MountingHole_Pad" (id 1) (at 158.115 21.5899 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "MountingHole:MountingHole_6.4mm_M6_DIN965_Pad" (id 2) (at 154.94 21.59 0)
+    (property "Footprint" "MountingHole:MountingHole_6.5mm_Pad" (id 2) (at 154.94 21.59 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 154.94 21.59 0)
@@ -1264,7 +1264,7 @@
     (property "Value" "MountingHole_Pad" (id 1) (at 207.645 21.5899 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "MountingHole:MountingHole_6.4mm_M6_DIN965_Pad" (id 2) (at 204.47 21.59 0)
+    (property "Footprint" "MountingHole:MountingHole_6.5mm_Pad" (id 2) (at 204.47 21.59 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 204.47 21.59 0)
@@ -1282,7 +1282,7 @@
     (property "Value" "MountingHole_Pad" (id 1) (at 132.715 21.5899 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "MountingHole:MountingHole_6.4mm_M6_DIN965_Pad" (id 2) (at 129.54 21.59 0)
+    (property "Footprint" "MountingHole:MountingHole_6.5mm_Pad" (id 2) (at 129.54 21.59 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 129.54 21.59 0)
@@ -1300,7 +1300,7 @@
     (property "Value" "MountingHole_Pad" (id 1) (at 182.245 21.5899 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "MountingHole:MountingHole_6.4mm_M6_DIN965_Pad" (id 2) (at 179.07 21.59 0)
+    (property "Footprint" "MountingHole:MountingHole_6.5mm_Pad" (id 2) (at 179.07 21.59 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 179.07 21.59 0)
@@ -2770,7 +2770,7 @@
       (reference "C89") (unit 1) (value "100nF") (footprint "Capacitor_THT:C_Disc_D7.0mm_W2.5mm_P5.00mm")
     )
     (path "/00000000-0000-0000-0000-00006262cd5c/b074a9d0-c18a-46ec-bcd4-0556955017c0"
-      (reference "C90") (unit 1) (value "47pF") (footprint "Capacitor_THT:C_Disc_D7.0mm_W2.5mm_P5.00mm")
+      (reference "C90") (unit 1) (value "120pF") (footprint "Capacitor_THT:C_Disc_D7.0mm_W2.5mm_P5.00mm")
     )
     (path "/00000000-0000-0000-0000-00006262cd5c/73a84717-b62c-418c-b1e4-1f2a2e7a7ed5"
       (reference "C91") (unit 1) (value "150pF") (footprint "Capacitor_THT:C_Disc_D7.0mm_W2.5mm_P5.00mm")
@@ -2809,19 +2809,19 @@
       (reference "CR2") (unit 1) (value "1N914") (footprint "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal")
     )
     (path "/6af1da81-8b3f-40c5-8d3b-aa0c3acf9c86"
-      (reference "H1") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_6.4mm_M6_DIN965_Pad")
+      (reference "H1") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_6.5mm_Pad")
     )
     (path "/416653ac-cd31-425d-843c-94ee0192d42a"
-      (reference "H2") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_6.4mm_M6_DIN965_Pad")
+      (reference "H2") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_6.5mm_Pad")
     )
     (path "/765b73ea-0c0f-43ad-a842-8550cf798f71"
-      (reference "H3") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_6.4mm_M6_DIN965_Pad")
+      (reference "H3") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_6.5mm_Pad")
     )
     (path "/61a43dc5-2c16-438f-a14a-cb2f34653a90"
-      (reference "H4") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_6.4mm_M6_DIN965_Pad")
+      (reference "H4") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_6.5mm_Pad")
     )
     (path "/108b7016-3060-41aa-8f8f-e42105438eae"
-      (reference "H5") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_6.4mm_M6_DIN965_Pad")
+      (reference "H5") (unit 1) (value "MountingHole_Pad") (footprint "mount_points:MountingHole_7mm_M7")
     )
     (path "/00000000-0000-0000-0000-000062624797/de7d0ba1-ce01-4a2b-8742-77db1da6f404"
       (reference "H6") (unit 1) (value "MountingHole_Pad") (footprint "mount_points:SWITCH_MOUNT")

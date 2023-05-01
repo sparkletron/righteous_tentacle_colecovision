@@ -2638,7 +2638,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid b074a9d0-c18a-46ec-bcd4-0556955017c0)
     (property "Reference" "C90" (id 0) (at 184.15 56.515 90))
-    (property "Value" "47pF" (id 1) (at 184.15 59.055 90))
+    (property "Value" "120pF" (id 1) (at 184.15 59.055 90))
     (property "Footprint" "Capacitor_THT:C_Disc_D7.0mm_W2.5mm_P5.00mm" (id 2) (at 187.96 62.5348 0)
       (effects (font (size 1.27 1.27)) hide)
     )

@@ -1189,7 +1189,7 @@
     (uuid ff6db4e4-2cd2-431e-8d53-4a8305d00b57)
   )
 
-  (text "Connector Color Code:\nGND = Blue\n-5V = Yellow\n12V = Red\n 5V = White"
+  (text "Connector Color Code:\nGND = Black/Blue\n-5V = Blue/Yellow\n12V = Red\n 5V = White"
     (at 154.305 50.8 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 843d1184-cd64-4847-a17d-94dce456f21d)
