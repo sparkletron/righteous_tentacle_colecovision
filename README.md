@@ -35,20 +35,17 @@
   - [Link to Wiki Parts list for the original console](../../wiki/Detailed-Part-Listing-For-Original)
   - [Link to Wiki Parts list for ordering parts](../../wiki/Detailed-Part-Listing-For-Orders)
 
-## PROCESS IDEAS
-  - FIRST: Reverse engineer without outside resources. Only a internal reverse engineering of the board for the schematic. **COMPLETE**
-  - SECOND: Use outside schematic resources to check, then verify those against the board to see who was right. **COMPLETE**
-  - THIRD: Create a PCB based upon the orignal, make it close but not exact. **IN-PROGRESS**
-  - FOURTH: Create a 3D printable case for the console. **NO-PROGRESS**
-  - FIFTH: Document signals of the console. **NO-PROGRESS**
-
 ## SOURCES
 ### Schematic Check
   - Atari HQ Schematic : https://wiki.console5.com/wiki/Colecovision : Dan Boris
   - Atari Age : https://forums.atariage.com/topic/285656-new-colecovision-schematics/ : ChildOfCV
 
+  Special thanks to ChildOfCV. Using his as a check for mine after buzzing out my own board was a great help. His schematic on
+  its own is a great resource.
+
   Did find a few issues with mine vs the ChildOfCV version, my board is a different revision so they will differ in subtle ways.
-  Special thanks to ChildOfCV, his schematic is great.
+  Seems to be mostly just cap and resistor values in the RF circuit. Though I did adjust my values on the clock to reflect those
+  recommend in the tech manual.
 
   The Dan Boris schematic is ok, has a few mistakes that I can't recall at the moment. Mentioning it since I did look at it, but
   due to its issues I didn't use it.
@@ -86,6 +83,9 @@
     - outside_sources, external sources with added watermark.
     - reverse_high_res, scans from a Canon 9600 DPI flatbed scanner of the PCB boards. Compressed to save space.
     - tear_down, images of the parts as they came apart.
+    - signals
+      - digital, all digital domain captures
+      - analog, all analog domain captures
   - schematic, contains KiCAD schematic files.
     - coleco_original.kicad_pro, this file is the main project file that contains EVERTHING.
     - *-backups, are folders KiCAD creates to backup the project.

@@ -3094,7 +3094,7 @@
       (reference "R78") (unit 1) (value "1K") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/d7e08e46-990d-4e27-b9cb-1b29fb4b0562/92ccf26d-9cd2-44c9-9f74-f5b0f0d7e220"
-      (reference "R79") (unit 1) (value "1K5") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+      (reference "R79") (unit 1) (value "1K5_OPT") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/d7e08e46-990d-4e27-b9cb-1b29fb4b0562/90d81fee-5b02-4f66-adf4-b1217f22fc02/d494ae4a-07fc-4fe5-8f36-00ae4ffc8915"
       (reference "RF_C1") (unit 1) (value "1nF") (footprint "Capacitor_THT:C_Disc_D7.0mm_W2.5mm_P5.00mm")
