@@ -2375,7 +2375,7 @@
     (property "Reference" "C91" (id 0) (at 227.33 46.3549 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "150pF" (id 1) (at 227.33 48.8949 0)
+    (property "Value" "150pF_OPT" (id 1) (at 227.33 48.8949 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_THT:C_Disc_D7.0mm_W2.5mm_P5.00mm" (id 2) (at 224.4852 51.435 0)

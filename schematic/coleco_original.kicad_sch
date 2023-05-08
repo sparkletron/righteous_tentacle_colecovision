@@ -2773,7 +2773,7 @@
       (reference "C90") (unit 1) (value "120pF") (footprint "Capacitor_THT:C_Disc_D7.0mm_W2.5mm_P5.00mm")
     )
     (path "/00000000-0000-0000-0000-00006262cd5c/73a84717-b62c-418c-b1e4-1f2a2e7a7ed5"
-      (reference "C91") (unit 1) (value "150pF") (footprint "Capacitor_THT:C_Disc_D7.0mm_W2.5mm_P5.00mm")
+      (reference "C91") (unit 1) (value "150pF_OPT") (footprint "Capacitor_THT:C_Disc_D7.0mm_W2.5mm_P5.00mm")
     )
     (path "/00000000-0000-0000-0000-00006262cd5c/3c97eb09-eb50-44ee-9dab-f9b97c0d40a8"
       (reference "C92") (unit 1) (value "82pF") (footprint "Capacitor_THT:C_Disc_D7.0mm_W2.5mm_P5.00mm")
