@@ -365,7 +365,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../step/coleco_original_main_only.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
