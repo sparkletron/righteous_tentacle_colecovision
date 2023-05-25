@@ -7,7 +7,7 @@
   (title_block
     (title "Righteous Tentacle, Colecovision Reverse Engineering Project")
     (date "2023-03-14")
-    (rev "DEV")
+    (rev "1.0.0")
     (company "sparkletron")
     (comment 1 "Jay Convertino")
     (comment 2 "MIT LICENSE")

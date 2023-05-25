@@ -7,7 +7,7 @@
   (title_block
     (title "Righteous Tentacle, Colecovision Reverse Engineering Project")
     (date "2023-03-14")
-    (rev "DEV")
+    (rev "1.0.0")
     (company "sparkletron")
     (comment 1 "Jay Convertino")
     (comment 2 "MIT LICENSE")
@@ -3148,13 +3148,13 @@
       (reference "RF_JP1") (unit 1) (value "Jumper_2_Bridged") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal")
     )
     (path "/d7e08e46-990d-4e27-b9cb-1b29fb4b0562/90d81fee-5b02-4f66-adf4-b1217f22fc02/6094d1bc-26ae-42f7-b1ee-392f02fe80e1"
-      (reference "RF_L1") (unit 1) (value "1.4uH") (footprint "Inductor_THT:L_Radial_D7.5mm_P5.00mm_Fastron_07P")
+      (reference "RF_L1") (unit 1) (value "6 Turn") (footprint "Inductor_THT:L_Radial_D7.5mm_P5.00mm_Fastron_07P")
     )
     (path "/d7e08e46-990d-4e27-b9cb-1b29fb4b0562/90d81fee-5b02-4f66-adf4-b1217f22fc02/6277597c-eaee-4ae8-b49a-f8e78f3846c9"
-      (reference "RF_L2") (unit 1) (value "1.4uH") (footprint "Inductor_THT:L_Radial_D7.5mm_P5.00mm_Fastron_07P")
+      (reference "RF_L2") (unit 1) (value "14 Turn") (footprint "Inductor_THT:L_Radial_D7.5mm_P5.00mm_Fastron_07P")
     )
     (path "/d7e08e46-990d-4e27-b9cb-1b29fb4b0562/90d81fee-5b02-4f66-adf4-b1217f22fc02/7c472d71-4661-406c-ae6c-9f051677b675"
-      (reference "RF_L3") (unit 1) (value "1.5uH") (footprint "Inductor_THT:L_Radial_D7.5mm_P5.00mm_Fastron_07P")
+      (reference "RF_L3") (unit 1) (value "4 Turn") (footprint "Inductor_THT:L_Radial_D7.5mm_P5.00mm_Fastron_07P")
     )
     (path "/d7e08e46-990d-4e27-b9cb-1b29fb4b0562/90d81fee-5b02-4f66-adf4-b1217f22fc02/7fa6aabb-d261-4c00-8e28-5c26b7265fe2"
       (reference "RF_R1") (unit 1) (value "39K") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
@@ -3199,7 +3199,7 @@
       (reference "RF_U1") (unit 1) (value "LM1889") (footprint "Package_DIP:DIP-18_W7.62mm_LongPads")
     )
     (path "/d7e08e46-990d-4e27-b9cb-1b29fb4b0562/90d81fee-5b02-4f66-adf4-b1217f22fc02/df638239-9038-441e-928f-88892b8a14f5"
-      (reference "RF_VL1") (unit 1) (value "Sumida_73279") (footprint "Variable_Inductors:Sumida_73279")
+      (reference "RF_VL1") (unit 1) (value "Sumida_M41_Tank") (footprint "Variable_Inductors:Sumida_73279")
     )
     (path "/00000000-0000-0000-0000-00006262cd5c/5a44b494-30c5-45bc-a809-ce28c5756b42"
       (reference "S1") (unit 1) (value "SW_SPST") (footprint "Switches_THT:Coleco_RST")
