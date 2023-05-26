@@ -32,6 +32,10 @@
   - [Link to Wiki Parts list for the original console](../../wiki/Detailed-Part-Listing-For-Original)
   - [Link to Wiki Parts list for ordering parts](../../wiki/Detailed-Part-Listing-For-Orders)
 
+## Intro
+
+  This recreation of the PCB is for documenation, and reproduction purposes. This mimicks the PCB of the original NTSC revision F main board.
+
 ## SOURCES
 ### Schematic Check
   - Atari HQ Schematic : https://wiki.console5.com/wiki/Colecovision : Dan Boris
@@ -57,6 +61,9 @@
 
   Recommend soldering the cartridge connector first, the CPU makes soldering one side of the pins a bit difficult to do
   without melting the connector.
+
+  There are various questionable routings, these are how the original is done. Some adjustments were made to make some things easier
+  for at home builders without plated through holes.
 
 ## FILE INFORMATION
   - README.md, is this file.
