@@ -7,7 +7,7 @@
 
   date: 2023.03.01
 
-  details: Reverse engineer original PCB to create a schematic and functional replacment board.
+  details: Reverse engineer original PCB to create a schematic and functional replacment board. This only includes the NTSC system.
 
   license: MIT
 
