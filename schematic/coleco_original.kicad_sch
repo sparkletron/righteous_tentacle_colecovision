@@ -1625,7 +1625,7 @@
       (effects (font (size 1.27 1.27)) (justify left))
       (uuid 770b8e4a-a089-47de-86de-9daf026be1b7)
     )
-    (pin "~{AUD_DECODE_2}" output (at 208.28 105.41 180)
+    (pin "~{AUX_DECODE_2}" output (at 208.28 105.41 180)
       (effects (font (size 1.27 1.27)) (justify left))
       (uuid 0f6232b1-338b-4ae4-9399-561b903b0608)
     )

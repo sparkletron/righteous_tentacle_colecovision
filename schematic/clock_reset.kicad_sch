@@ -1545,7 +1545,7 @@
     (uuid f781afad-408a-451b-816f-c8352ec1bb81)
   )
 
-  (hierarchical_label "~{AUD_DECODE_2}" (shape output) (at 204.47 127.635 0)
+  (hierarchical_label "~{AUX_DECODE_2}" (shape output) (at 204.47 127.635 0)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 0091012c-fc9d-4e15-8681-b5518501ff11)
   )
