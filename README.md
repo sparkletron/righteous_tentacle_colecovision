@@ -20,7 +20,7 @@
 
 ## RELEASE VERSIONS
 ### Current
-  - 1.0.0 - initial release of revision E
+  - 1.0.0.F - initial release of revision F main PCB
 
 ### Past
   - DEV
