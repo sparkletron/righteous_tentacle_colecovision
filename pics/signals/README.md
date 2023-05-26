@@ -4,7 +4,7 @@
 - Analog
 All signals in the analog folder are measured using an oscilliscope probe, and include analog AND digitial signals self triggered as a single measurment.
 
-- Digitial
+- Digital
 All signals in the digital folder are measured using a logic analyizer, and ONLY include digital signals.
 
 ## Usage
