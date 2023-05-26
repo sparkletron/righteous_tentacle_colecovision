@@ -54,7 +54,7 @@
   due to its issues I didn't use it.
 
 ## REQUIREMENTS
-  - KiCAD v6.X
+  - KiCAD v7.X
 
 ## BUILD TIPS
   This design is made so anyone can build this. You may send it out to a fab house, you may use a PCB mill, or even etch it.
