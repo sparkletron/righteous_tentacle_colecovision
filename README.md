@@ -81,8 +81,8 @@
     - reverse_high_res, scans from a Canon 9600 DPI flatbed scanner of the PCB boards. Compressed to save space.
     - tear_down, images of the parts as they came apart.
     - signals
-      - digital, all digital domain captures
-      - analog, all analog domain captures
+      - digital, all digital analyzer captures
+      - analog, all analog scope captures
   - schematic, contains KiCAD schematic files.
     - coleco_original.kicad_pro, this file is the main project file that contains EVERTHING.
     - *-backups, are folders KiCAD creates to backup the project.
