@@ -1475,7 +1475,7 @@
     (property "Value" "MountingHole_Pad" (at 86.36 193.0399 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "MountingHole:MountingHole_4.3mm_M4_ISO14580_Pad" (at 83.185 193.04 0)
+    (property "Footprint" "MountingHole:MountingHole_3.5mm_Pad" (at 83.185 193.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 83.185 193.04 0)
