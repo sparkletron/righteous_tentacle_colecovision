@@ -2228,6 +2228,11 @@
     (uuid fd8bcc35-624a-49c7-bf73-2a9962791a69)
   )
 
+  (text "CTRL_EN_1 is Joypad ARM\nCRTL_EN_2 is Joypad FIRE" (at 230.505 55.499 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 630a9bd9-5b7c-4647-b215-e8f91d07c4b1)
+  )
+
   (label "D7" (at 133.985 103.505 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 0ce9c297-506a-475f-8eaa-8308cc7455e0)

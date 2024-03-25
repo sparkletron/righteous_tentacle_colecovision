@@ -1,4 +1,4 @@
-license MIT
+MIT License
 
 Copyright 2023 Johnathan Convertino
 
