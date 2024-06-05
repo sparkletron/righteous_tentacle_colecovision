@@ -1996,10 +1996,6 @@
       (effects (font (size 1.27 1.27)) (justify left))
       (uuid 85684da9-33d6-46a8-89d2-81ba530edaeb)
     )
-    (pin "~{IORQ}" output (at 63.5 125.73 180)
-      (effects (font (size 1.27 1.27)) (justify left))
-      (uuid 1690f597-3a40-4713-ba2e-d9d07d10408b)
-    )
     (pin "~{RD}" input (at 63.5 105.41 180)
       (effects (font (size 1.27 1.27)) (justify left))
       (uuid a2d3b086-ee89-4fc5-a45b-eec4537ddeac)
@@ -2099,6 +2095,10 @@
     (pin "EXT_VIDEO_SEL" output (at 63.5 140.97 180)
       (effects (font (size 1.27 1.27)) (justify left))
       (uuid 99c5124e-f85c-4005-bcf4-eec427495270)
+    )
+    (pin "~{IORQ}" input (at 63.5 125.73 180)
+      (effects (font (size 1.27 1.27)) (justify left))
+      (uuid c06af82e-1b35-4735-b60b-3d177d2ca5a1)
     )
     (instances
       (project "coleco_original"

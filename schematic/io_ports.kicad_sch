@@ -2154,7 +2154,7 @@
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid b0ec1a50-dad6-4082-a752-4ad74f050f7f)
   )
-  (hierarchical_label "~{IORQ}" (shape output) (at 171.45 71.12 0) (fields_autoplaced)
+  (hierarchical_label "~{IORQ}" (shape input) (at 171.45 71.12 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid b2fbbe20-9101-4cf0-b7ba-db7aa406b6af)
   )
