@@ -64,7 +64,7 @@
     (aux_axis_origin 22.86 231.787)
     (grid_origin 22.86 231.787)
     (pcbplotparams
-      (layerselection 0x0041030_ffffffff)
+      (layerselection 0x003ffff_ffffffff)
       (plot_on_all_layers_selection 0x0000000_00000000)
       (disableapertmacros false)
       (usegerberextensions false)
@@ -8942,7 +8942,7 @@
       (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp d4252cba-c189-4bbf-91d2-e34af542966b))
     (fp_line (start 13.79 3.895) (end 11.885 3.895)
       (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 4fe641b2-b88c-4a29-9c9c-95e3c30fc452))
-    (pad "1" thru_hole roundrect (at 0 0 270) (size 3.16 4.1) (drill 1.7) (layers "*.Cu" "*.Mask") (roundrect_rratio 0.079114)
+    (pad "1" thru_hole roundrect (at 0 0 270) (size 3.16 4.1) (drill 1.7) (layers "*.Cu" "*.Mask") (roundrect_rratio 0.07911392405)
       (net 4 "GNDD") (pinfunction "Pin_1") (pintype "passive") (tstamp a3fdfeda-3a59-4122-8d60-aa90d573da7d))
     (pad "2" thru_hole oval (at 3.96 0 270) (size 3.16 4.1) (drill 1.7) (layers "*.Cu" "*.Mask")
       (net 9 "-5C") (pinfunction "Pin_2") (pintype "passive") (tstamp 82cf5401-a812-42bf-92a9-f8cc1ac33843))
