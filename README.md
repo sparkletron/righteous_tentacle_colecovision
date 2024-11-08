@@ -28,6 +28,10 @@
   - 1.0.0.F - initial release of revision F main PCB
   - DEV
 
+## Gerbers
+  - [Main PCB Gerber Archive](schematic/PCB_TOOLS/gerber/MAIN_GERBER.zip)
+  - [RF PCB Gerber Archive](schematic/PCB_TOOLS/gerber/RF_GERBER.zip)
+
 ## Wiki
   - Please see the [Wiki](../../wiki) for various information.
     - Contains howto's, build notes, bill of materials, project logs, and signal documentation.
