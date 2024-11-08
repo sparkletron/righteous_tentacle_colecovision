@@ -29,6 +29,7 @@
   - DEV
 
 ## Gerbers
+  Files available below, to download select the download icon next to the raw icon on right hand upper side of the page.
   - [Main PCB Gerber Archive](schematic/PCB_TOOLS/gerber/MAIN_GERBER.zip)
   - [RF PCB Gerber Archive](schematic/PCB_TOOLS/gerber/RF_GERBER.zip)
 
