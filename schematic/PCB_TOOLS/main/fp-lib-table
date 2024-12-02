@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Connector_PCBEdge_EXT")(type "KiCad")(uri "${KIPRJMOD}/../../lib/CONNECTOR_PCBEdge_EXT/Connector_PCBEdge_EXT.pretty")(options "")(descr ""))
+)

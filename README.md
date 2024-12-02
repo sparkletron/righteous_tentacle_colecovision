@@ -22,9 +22,10 @@
 
 ## RELEASE VERSIONS
 ### Current
-  - 1.0.1.F - Added power and reset switch to case.
+  - 1.0.2.F - Fixed solder mask on expansion bay connector.
 
 ### Past
+  - 1.0.1.F - Added power and reset switch to case.
   - 1.0.0.F - initial release of revision F main PCB
   - DEV
 
